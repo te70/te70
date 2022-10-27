@@ -10,6 +10,10 @@
   <a href="https://www.linkedin.com/in/tevin-kinuthia-732803ba">
     <img height="50" src="https://user-images.githubusercontent.com/42199000/198270255-da8da825-b3f2-4151-8506-632b26d15f03.png" />
   </a>
+  
+  <a href="https://github.com/tvn0">
+    <img height="50" src="https://user-images.githubusercontent.com/42199000/198327122-84992716-72d8-4b84-b5ce-e26b36921fbb.png"/>
+  </a>
 </p>
 
 <p align="center">
