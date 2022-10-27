@@ -77,9 +77,9 @@ currently_learning: ["Testing"]
 # My Github History
 
 <p>
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=te70&count_private=true&show_icons=true&theme=radical" />
+  <img height="100" src="https://github-readme-stats.vercel.app/api?username=te70&count_private=true&show_icons=true&theme=radical" />
   
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=te70&layout=compact&theme=radical" />
+  <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=te70&layout=compact&theme=radical" />
 </p>
 
 ![Snake animation](https://github.com/te70/te70/blob/output/github-contribution-grid-snake.svg)
