@@ -28,12 +28,12 @@
 ```yaml
 name: Tevin Kinuthia
 located_in: Nairobi, Kenya
-current_job: Backend Developer
+current_job: Junior Software Engineer
 education: 
 [
   "Bachelor's in Business Information Technology"
 ]
-company: HNG Internship
+company: Oak Concepts
 
 fields_of_interests:
 [
@@ -44,13 +44,14 @@ fields_of_interests:
 ]
 technical_background:
 [
-  "Backend Developer",
-  "Intern - Junior Software Engineer",
-  "Intern - IT Support",
-  "Intern - Junior Software Engineer",
+  "Junior Software Engineer"
+  "Intern" - "Backend Developer Intern",
+  "Intern - Junior Software Engineer Intern",
+  "Intern - IT Support Intern",
+  "Intern - Junior Software Engineer Intern",
 ]
 
-currently_learning: ["Testing"]
+currently_learning: ["Java"]
 ```
 
 <hr/>
