@@ -51,7 +51,7 @@ technical_background:
   "Intern - Junior Software Engineer Intern",
 ]
 
-currently_learning: "Cyber security"
+currently_learning: ["Cyber security"]
 ```
 
 <hr/>
