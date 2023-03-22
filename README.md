@@ -81,11 +81,11 @@ currently_learning: ["Cyber security"]
 
 # My Github History
 
-<p>
+<!-- <p>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=te70&count_private=true&show_icons=true&theme=radical" />
   
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=te70&layout=compact&theme=radical" />
-</p>
+</p> -->
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&animation=fadeIn&fontSize=90" /></p>
 
