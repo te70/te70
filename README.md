@@ -79,7 +79,7 @@ currently_learning: ["Cyber security"]
 
 <hr/>
 
-# My Github History
+<!-- # My Github History -->
 
 <!-- <p>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=te70&count_private=true&show_icons=true&theme=radical" />
