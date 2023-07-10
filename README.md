@@ -33,7 +33,7 @@ education:
 [
   "Bachelor's in Business Information Technology"
 ]
-company: Oak Concepts
+company: HabaPay Inc.
 
 fields_of_interests:
 [
