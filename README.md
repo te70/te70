@@ -1,6 +1,6 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello!&animation=fadeIn&fontSize=90" /></p>
 
-# <p align="center">Take A Coffee & Chat With Me </p>
+# <p align="center">Smile it's a beautiful day. </p>
 
 <p align="center">
   <a href="https://tevink.netlify.app/">
