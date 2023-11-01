@@ -44,7 +44,9 @@ fields_of_interests:
 ]
 technical_background:
 [
-  "Junior Software Engineer"
+  "Web developer"
+  "Full time" - "Junior Software Engineer"
+  "Full time" - "Junior Software Engineer"
   "Intern" - "Backend Developer Intern",
   "Intern - Junior Software Engineer Intern",
   "Intern - IT Support Intern",
