@@ -28,12 +28,12 @@
 ```yaml
 name: Tevin Kinuthia
 located_in: Nairobi, Kenya
-current_job: Junior Software Engineer
+current_job: Web developer
 education: 
 [
   "Bachelor's in Business Information Technology"
 ]
-company: HabaPay Inc.
+company: Turtle Creative Ltd.
 
 fields_of_interests:
 [
