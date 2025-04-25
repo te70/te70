@@ -23,7 +23,6 @@
 ```yaml
 name: Tevin
 located_in: Nairobi, Kenya
-education: ["Bachelor's in Business Information Technology"]
 currently_learning: ["Cyber security"]
 ```
 
