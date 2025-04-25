@@ -1,12 +1,7 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello!&animation=fadeIn&fontSize=90" /></p>
 
-# <p align="center">Smile it's a beautiful day. </p>
 
 <p align="center">
-  <a href="https://tevink.netlify.app/">
-    <img height="50" src="https://user-images.githubusercontent.com/42199000/198269877-4cf4e6fa-ce8c-4c6a-871f-40a496f59ec9.png" />
-  </a>
-
   <a href="https://www.linkedin.com/in/tevin-kinuthia-732803ba">
     <img height="50" src="https://user-images.githubusercontent.com/42199000/198270255-da8da825-b3f2-4151-8506-632b26d15f03.png" />
   </a>
@@ -26,33 +21,9 @@
 
 # About Me and My Interests
 ```yaml
-name: Tevin Kinuthia
+name: Tevin
 located_in: Nairobi, Kenya
-current_job: Web developer
-education: 
-[
-  "Bachelor's in Business Information Technology"
-]
-company: Turtle Creative Ltd.
-
-fields_of_interests:
-[
-  "Backend development",
-  "Data Analysis",
-  "Cyber Security",
-  "IoT"
-]
-technical_background:
-[
-  "Web developer"
-  "Full time" - "Junior Software Engineer"
-  "Full time" - "Junior Software Engineer"
-  "Intern" - "Backend Developer Intern",
-  "Intern - Junior Software Engineer Intern",
-  "Intern - IT Support Intern",
-  "Intern - Junior Software Engineer Intern",
-]
-
+education: ["Bachelor's in Business Information Technology"]
 currently_learning: ["Cyber security"]
 ```
 
